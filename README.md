@@ -1,4 +1,4 @@
-# Real-time Stream Processing with Amazon Managed Service for Apache Flink
+# Amazon Managed Service for Apache Flink Workshop
 
 ## 📌 Project Overview
 This project demonstrates how to build and monitor a **real-time stream processing application** using **Amazon Managed Service for Apache Flink**.  
