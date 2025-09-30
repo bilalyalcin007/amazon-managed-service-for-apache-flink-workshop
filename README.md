@@ -111,7 +111,7 @@ To avoid ongoing AWS charges:
 
 ## 🔗 References
 - [Amazon Managed Service for Apache Flink Documentation](https://docs.aws.amazon.com/managed-flink/)  
-- [AWS Workshop Studio](https://catalog.workshops.aws/)
+- [AWS Workshop Studio](https://catalog.workshops.aws/managed-flink/en-US)
 
 ---
 
