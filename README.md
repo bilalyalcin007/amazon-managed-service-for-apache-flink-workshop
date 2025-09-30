@@ -6,14 +6,12 @@ The use case simulates ingesting data streams, processing them with Apache Flink
 
 Through this project, I practiced:
 
-- Deploying environments using **AWS CloudFormation**
-- Ingesting streaming data with **Amazon Kinesis Data Streams**
-- Running a **Java producer** to generate real-time event data
-- Developing and deploying a **Flink application**
-- Extending Flink with **event-time semantics** and **aggregation**
-- Integrating with **OpenSearch** for indexing and dashboards
-- Monitoring application health with **CloudWatch Metrics** and the **Flink Dashboard**
-- Observing job execution with **Directed Acyclic Graphs (DAGs)**
+- Provisioning with **CloudFormation**
+- Ingesting streams via **Kinesis** and a **Java producer**
+- Deploying and extending a **Flink application** with event-time semantics & aggregation
+- Visualizing results in **OpenSearch**
+- Monitoring with **CloudWatch** and the **Flink Dashboard**
+- Analyzing execution using **DAGs**
 
 ---
 
