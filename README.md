@@ -96,7 +96,7 @@ Monitored performance and resource utilization with **CloudWatch Metrics** and t
 ### 7. DAG & Metrics Analysis
 Visualized the job graph and validated data flow using the DAG and Kinesis metrics.
 
-![Directed Acyclic Graph](screenshots/Directed-Acyclic-Graph-(DAG).png)  
+![Directed Acyclic Graph](screenshots/Directed-Acyclic-Graph.png)  
 ![Kinesis Source and Sink Metrics](screenshots/KinesisSourceAndSinkMetrics.png)
 
 ---
